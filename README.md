@@ -1,8 +1,7 @@
 # Hossein Basereh Taramsari, Ph.D.
-
-Technical Lead – Large Diameter Coupling Technology at Victaulic. Mechanical and systems engineer with a Ph.D. in Engineering Management from Stevens Institute of Technology.
-
-I work on large-diameter mechanical pipe-joining systems (nonlinear FEA, structural analysis, design verification) and on systems engineering, decision and risk analysis, and machine learning.
+ 
+Mechanical and systems engineer with a Ph.D. in Engineering Management from Stevens Institute of Technology.
+Technical Lead – Large Diameter Coupling Technology at Victaulic.
 
 ## Engineering tools
 
