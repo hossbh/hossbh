@@ -5,7 +5,7 @@ Technical Lead – Large Diameter Coupling Technology at Victaulic.
 
 ## Engineering tools
 
-- [Beam Analysis Workbench](https://beamworkbench.com): beam analysis in the browser, with shear, moment and deflection diagrams and a 3-D view
+- [Beam Analysis Workbench](https://beamworkbench.com/app/): beam analysis in the browser, with shear, moment and deflection diagrams and a 3-D view
 - [Bolt Analysis Workbench](https://beamworkbench.com/bolt/): preload, joint stiffness, separation, fatigue and bolt groups
 - [Weld Analysis Workbench](https://beamworkbench.com/weld/): fillet, PJP, CJP and plug welds to AISC, AWS D1.1 and Eurocode 3
 
