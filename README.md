@@ -1,6 +1,6 @@
 # Hossein Basereh Taramsari
  
-Mechanical and systems engineer | Ph.D. in Engineering Management.
+Mechanical and Systems Engineer | Ph.D. in Engineering Management | New Product Development 
 
 ## Engineering tools
 
