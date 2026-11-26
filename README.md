@@ -11,6 +11,7 @@ Mechanical and Systems Engineer | Ph.D. in Engineering Management | New Product 
 ## Repositories
 
 - [Cellular Automata Explorer](https://hossbh.github.io/Cellular-Automata-Explorer/): 3-D cellular automata in the browser, with rule editing, seed drawing ([code](https://github.com/hossbh/Cellular-Automata-Explorer))
+- [Agent-Based Modeling Explorer](https://hossbh.github.io/Agent-Based-Modeling-Explorer/): ten agent-based models in 3-D, with editable rules and a parameter-sweep lab ([code](https://github.com/hossbh/Agent-Based-Modeling-Explorer))
 - [MAUT](https://github.com/hossbh/MAUT): multi-attribute utility decision model with Monte Carlo and sensitivity analysis
 - [Applied Machine Learning](https://github.com/hossbh/Applied-Machine-Learning_AAI-695): ML from first principles, including a CAD material-prediction project
 - [Probability and Statistics](https://github.com/hossbh/Probability-and-Statistics_SYS-501): distributions, Monte Carlo, estimation and hypothesis testing
