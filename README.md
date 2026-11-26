@@ -4,9 +4,9 @@ Mechanical and Systems Engineer | Ph.D. in Engineering Management | New Product 
 
 ## Engineering tools
 
-- [Beam Analysis](https://beamworkbench.com/app/): beam analysis in the browser, with shear, moment and deflection diagrams and a 3-D view
-- [Bolt Analysis](https://beamworkbench.com/bolt/): preload, joint stiffness, separation, fatigue and bolt groups
-- [Weld Analysis](https://beamworkbench.com/weld/): fillet, PJP, CJP and plug welds to AISC, AWS D1.1 and Eurocode 3
+- [Beam Analysis](https://beamworkbench.com/app/): beam analysis in the browser, with shear, moment and deflection diagrams and a 3-D view and animation.
+- [Bolt Analysis](https://beamworkbench.com/bolt/): preload, joint stiffness, separation, fatigue and bolt groups.
+- [Weld Analysis](https://beamworkbench.com/weld/): fillet, PJP, CJP and plug welds to AISC, AWS D1.1 and Eurocode 3.
 
 ## Repositories
 
