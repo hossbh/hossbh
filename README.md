@@ -15,7 +15,6 @@ Mechanical and Systems Engineer | Ph.D. in Engineering Management | New Product 
 - [MAUT](https://github.com/hossbh/MAUT): multi-attribute utility decision model with Monte Carlo and sensitivity analysis
 - [Applied Machine Learning](https://github.com/hossbh/Applied-Machine-Learning_AAI-695): ML from first principles, including a CAD material-prediction project
 - [Probability and Statistics](https://github.com/hossbh/Probability-and-Statistics_SYS-501): distributions, Monte Carlo, estimation and hypothesis testing
-- [Data Analysis](https://github.com/hossbh/Data-Analysis_SYS-930): exploratory and geospatial data analysis in Python
 
 ## Links
 
